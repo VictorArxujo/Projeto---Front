@@ -18,7 +18,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  padding: 20px 0; /* Adicionado para evitar corte em telas menores */
+  padding: 20px 0;
 }
 
 .form-container {
@@ -53,7 +53,7 @@ body {
 }
 
 .form-group {
-  margin-bottom: 15px; /* Reduzido para caber mais campos */
+  margin-bottom: 15px;
 }
 
 .form-group label {
