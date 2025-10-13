@@ -1,0 +1,16 @@
+body {
+    background-color: #d9d9d9;
+    font-family: poppins;
+}
+
+h1 {
+    font-style: italic;
+}
+#link {
+   text-decoration: none; 
+}
+
+.titulo:hover {
+    color: green;
+    font-style: italic;
+}
