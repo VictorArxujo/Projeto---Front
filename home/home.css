@@ -243,3 +243,14 @@ body {
   text-align: right;
   margin: 10px;
 }
+.cv {
+  display: flex;
+  align-items: flex-start;
+}
+.cv ul a {
+  padding-top: 10px;
+  display: flex;
+  font-style: none;
+  text-decoration: none;
+  color: var(--primary-yellow);
+}
