@@ -24,15 +24,19 @@ Fazendo com que os clientes do mesmo possuam uma forma externa de encontrar os d
 
 ## Telas de Exemplo
 **Cadastro**
+
 ![Tela cadastro](<curriculos/Curriculo Gabriel/figs/Cadastro.png>)
 
 **Login**
+
 ![Tela login](<curriculos/Curriculo Gabriel/figs/Login.png>)
 
 **Cardápio**
+
 ![Tela cardápio](<curriculos/Curriculo Gabriel/figs/Cardapio.png>)
 
 **Contato**
+
 ![Tela contato](<curriculos/Curriculo Gabriel/figs/Contato.png>)
 
 ## Link do github pages
