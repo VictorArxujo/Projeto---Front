@@ -13,6 +13,12 @@ function cadastrarUsuario(event) {
         return;
     }
 
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailRegex.test(email)) {
+        alert('Por favor, insira um email válido.');
+        return;
+    }
+
     const usuario = {
         name,
         email,
